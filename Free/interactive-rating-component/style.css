@@ -137,7 +137,7 @@ p {
   margin: 5px;
 }
 
-.btn:hover {
+.btns > .btn:hover {
   background-color: var(--c-orange);
 }
 .selected {
@@ -175,10 +175,6 @@ button {
   color: var(--c-white);
   text-transform: uppercase;
   letter-spacing: 2px;
-}
-
-.card h2:has(+ p) btn.active ~ button:hover {
-  background-color: var(--c-white);
 }
 
 .attribution {

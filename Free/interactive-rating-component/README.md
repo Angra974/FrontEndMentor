@@ -72,5 +72,5 @@ Later perhaps i will make it with React as a practice.
 ## Author
 
 - Website - [See my Portolio](https://thierryparlier.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Angra974)
+- Frontend Mentor - [@Angra974](https://www.frontendmentor.io/profile/Angra974)
 - Twitter - [@ParlierThierry](https://www.twitter.com/ParlierThierry)

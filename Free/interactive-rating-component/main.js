@@ -1,5 +1,5 @@
 // add eventLisener on btn on click
-const btns = document.querySelectorAll("span.btn");
+const btns = document.querySelectorAll(".btns > span.btn");
 const btnContainer = document.querySelector(".btns");
 const btnSubmit = document.querySelector("button");
 const questionEl = document.querySelector(".question");
